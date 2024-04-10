@@ -1,0 +1,2 @@
+export const ICON="https://characterai.io/i/200/static/avatars/uploaded/2023/5/14/7ObZrVOhFv1LY592voQ12j9Zw42qm1LwMxPYmDgk0m4.webp?webp=true&anim=0"
+export const API="https://character.ai/api/trpc/discovery.recommendedAnonymous,discovery.recommended?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%7D%7D%7D"
